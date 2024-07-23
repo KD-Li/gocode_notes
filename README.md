@@ -1,0 +1,2 @@
+# gocode_notes
+阅读golang源码时以注释的形式记录一些心得
